@@ -1,5 +1,5 @@
 # RainbowCrackPlugin
-Plugin for RainbowCrack (see [http://project-rainbowcrack.com/documentation.htm](http://project-rainbowcrack.com/documentation.htm] for development) for development)
+Plugin for RainbowCrack (see [http://project-rainbowcrack.com/documentation.htm](http://project-rainbowcrack.com/documentation.htm]) for development)
 
 Tested with rainbowcrack 1.6.1 on x64 Linux.
 
