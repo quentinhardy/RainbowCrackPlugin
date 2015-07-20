@@ -1,0 +1,2 @@
+# RainbowCrackPlugin
+Plugin for RainbowCrack
