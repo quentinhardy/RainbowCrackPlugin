@@ -4,15 +4,20 @@ Plugin for RainbowCrack (see [http://project-rainbowcrack.com/documentation.htm]
 Tested with rainbowcrack 1.6.1 on x64 Linux.
 
 ### Algorithm(s) implemented:
-* Oracle <= 10g. You can choose the Oracle username (*SYS* in the source code).
+* Oracle Database <= 10g. You can choose the Oracle username (*SYS* or *SYSTEM*).
 
 ### Usage
-* Set the username in *alglib1.cpp* (*login*) and the length (*loginLg*)
 * Compile the souce code:
 ```bash
 ./compile_alglib1.sh
 ```
 * Put *alglib1.so* next to *RainbowCrack* binaries (ex: *rcrack*)
+
+### Examples
+* Crack Oracle <=10g hashes of some SYSTEM users:
+```bash
+./rcrack ~/oracle10g-SYSTEM_oracle-alpha-numeric-symbol6#1-7/*.rt -l /tmp/passwords.txt
+```
 
 ---
 | __Quentin HARDY__    |
