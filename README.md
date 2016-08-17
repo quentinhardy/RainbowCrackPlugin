@@ -22,4 +22,4 @@ Tested with rainbowcrack 1.6.1 on x64 Linux.
 ---
 | __Quentin HARDY__    |
 | ------------- |
-| __qhardyfr@gmail.com__  |
+| __quentin.hardy@protonmail.com__  |
